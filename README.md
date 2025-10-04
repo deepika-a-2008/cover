@@ -136,7 +136,7 @@ Publish the website in the LocalHost.
 '''
 
 ## OUTPUT:
-![alt text](<Passport Size Photo.jpg>)
+![alt text](<Book cover--SEC.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
